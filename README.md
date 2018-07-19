@@ -36,6 +36,9 @@ Please check out the guide [how to build tensorflow on firefly](https://cyberfir
 
 ### Keras
 
+https://keras.io
+
+Chinese version:
 http://keras-cn.readthedocs.io/en/latest/#keraspython
 
 ### MTCNN algorithm
